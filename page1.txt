@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+    <style type="text/css">
+        html {
+            font-family: 'Helvetica-Neue', 'Helvetica', 'Arial';
+        }
+    </style>
+        <title>Download File JS example</title>
+        <script src="../src/download.js"></script>
+    </head>
+    <body>
+        <h1>
+            DownloadJS demo page
+        </h1>
+        <h2>
+            Intelligent solution for files downloading in JavaScript
+        </h2>
+        <p>
+            Why DownloadJS?
